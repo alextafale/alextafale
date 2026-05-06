@@ -1,23 +1,58 @@
-# Hi there 👋 I'm Alejandro
+# Alejandro Alejandre Tafolla
 
-## 🚀 About Me
-I'm Alejandro, a Computer Systems Engineering student passionate about technology, programming, and continuous learning. My journey into software development started in the most unexpected way: back in elementary school, we had a few classes where our teacher dictated HTML code, and we wrote it in Notepad to build a simple web page. At that time, I thought: *"What on earth is this?"* — without imagining that one day I would become a developer.
+Computer Systems Engineering student (8th semester) at Tecnológico Nacional de México and junior fullstack developer at AgroNow, based in León, Guanajuato. I build mobile-first products and explore blockchain infrastructure in my own time.
 
-Since then, my curiosity has only grown. Today, I dedicate myself to becoming a better programmer day by day, learning from others, and striving to improve not only my technical skills but also my mindset as a builder and problem solver.
-
----
-
-## 🌱 What I'm Focused On
-- **Learning every day**: I believe programming is a craft that requires constant practice and exploration.
-- **Becoming better step by step**: Improvement is not about giant leaps, but about consistent progress.
-- **Learning from others**: Collaboration and shared knowledge are the keys to growth.
-- **Building real-world solutions**: I enjoy turning ideas into working systems that solve problems.
-
-
-## ✨ Personal Philosophy
-Programming is more than writing code — it's about creating, learning, and evolving.  
-I see myself as a lifelong learner who embraces challenges, values persistence, and believes that every bug fixed and every feature built is a step toward becoming a better developer.
+My introduction to code was a teacher dictating HTML in elementary school while we typed it into Notepad. I had no idea what I was doing. That confusion turned into curiosity, and curiosity turned into a career path.
 
 ---
 
-> *"From wondering what code was in elementary school, to building systems today — my journey is proof that curiosity leads to growth."*
+## What I work with
+
+**Mobile & Web**  
+React Native · Expo · TypeScript · Vue · Vite
+
+**Backend & Infrastructure**  
+FastAPI · Supabase · PostgreSQL · Docker · Python
+
+**Blockchain**  
+Cosmos SDK · CosmWasm · Go · Ignite CLI
+
+**AI & Tooling**  
+Anthropic API · Claude Code · Ollama (local LLMs: qwen2.5) · Prompt engineering · AI-integrated development workflows
+
+**Systems & Security**  
+Linux (Pop!_OS) · Networking · Cybersecurity fundamentals · Cisco (routing, switching, ACLs)
+
+---
+
+## What I am building
+
+**Pidelo** — A food delivery platform. I own the entire mobile frontend (React Native/Expo + TypeScript) and the backend API (FastAPI + Supabase with PostGIS, RLS, and real-time subscriptions).
+
+**Antigravity** — A blockchain project built on Cosmos SDK. I handle the Go/blockchain side of a multi-language team working with Rust, Elixir, and CosmWasm smart contracts.
+
+**Personal portfolio** — A dark, futuristic site in Vue + Vite with a scroll-driven 3D phone mockup using TresJS.
+
+---
+
+## How I work
+
+I treat AI as a core collaborator, not a supplementary tool. I use Claude, Claude Code, and local LLMs to accelerate architecture decisions, debug complex systems, and ship faster — while maintaining ownership of every line I commit.
+
+I believe in building real things, reading errors carefully, and improving incrementally. Every bug fixed is progress.
+
+---
+
+## Certifications
+
+- Building with the Claude API — Anthropic Academy  
+- AWS Academy Cloud Foundations  
+- Exploring AI Use Cases — AWS  
+- TypeScript — Udemy (Dec 2025)  
+- AI Development Fundamentals — BIG School (Oct 2025)
+
+---
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/tu-perfil) · [Email](mailto:tu@email.com)
