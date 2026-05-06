@@ -55,4 +55,4 @@ I believe in building real things, reading errors carefully, and improving incre
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/tu-perfil) · [Email](mailto:tu@email.com)
+[LinkedIn](www.linkedin.com/in/alextafale) · [Email](mailto:tafoyaalex32@gmail.com)
