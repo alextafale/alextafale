@@ -1,6 +1,6 @@
 # Alejandro Alejandre Tafolla
 
-Computer Systems Engineering student (trainer) at Tecnológico Nacional de México and junior fullstack developer at AgroNow, based in León, Guanajuato. I build mobile-first products and explore blockchain infrastructure in my own time.
+Computer Systems Engineering student (trainer) at Tecnológico Nacional de México and junior fullstack developer at AgroNow, based in León, Guanajuato. I build mobile-first products.
 
 My introduction to code was a teacher dictating HTML in elementary school while we typed it into Notepad. I had no idea what I was doing. That confusion turned into curiosity, and curiosity turned into a career path.
 
@@ -14,9 +14,6 @@ React Native · Expo · TypeScript · Vue · Vite
 **Backend & Infrastructure**  
 FastAPI · Supabase · PostgreSQL · Docker · Python
 
-**Blockchain**  
-Cosmos SDK · CosmWasm · Go · Ignite CLI
-
 **AI & Tooling**  
 Anthropic API · Claude Code · Ollama (local LLMs: qwen2.5) · Prompt engineering · AI-integrated development workflows
 
@@ -28,8 +25,6 @@ Linux (Pop!_OS) · Networking · Cybersecurity fundamentals · Cisco (routing, s
 ## What I am building
 
 **Pidelo** — A food delivery platform. I own the entire mobile frontend (React Native/Expo + TypeScript) and the backend API (FastAPI + Supabase with PostGIS, RLS, and real-time subscriptions).
-
-**Antigravity** — A blockchain project built on Cosmos SDK. I handle the Go/blockchain side of a multi-language team working with Rust, Elixir, and CosmWasm smart contracts.
 
 **Personal portfolio** — A dark, futuristic site in Vue + Vite with a scroll-driven 3D phone mockup using TresJS.
 
