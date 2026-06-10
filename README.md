@@ -50,4 +50,4 @@ I believe in building real things, reading errors carefully, and improving incre
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/alextafale) · [Email](mailto:tafoyaalex32@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/alextafale/) · [Email](mailto:tafoyaalex32@gmail.com)
