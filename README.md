@@ -1,6 +1,6 @@
 # Alejandro Alejandre Tafolla
 
-Computer Systems Engineering student (8th semester) at Tecnológico Nacional de México and junior fullstack developer at AgroNow, based in León, Guanajuato. I build mobile-first products and explore blockchain infrastructure in my own time.
+Computer Systems Engineering student (trainer) at Tecnológico Nacional de México and junior fullstack developer at AgroNow, based in León, Guanajuato. I build mobile-first products and explore blockchain infrastructure in my own time.
 
 My introduction to code was a teacher dictating HTML in elementary school while we typed it into Notepad. I had no idea what I was doing. That confusion turned into curiosity, and curiosity turned into a career path.
 
